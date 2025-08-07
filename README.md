@@ -38,15 +38,15 @@ LibraryManagementSystem/
 ## Features
 
 - Add new books and users
-- 
+  
 - View list of books and users
-- 
+ 
 - Issue books to users
 - 
 - Return issued books
-- 
+  
 - Prevent issuing of already-issued books
-- 
+  
 - Input validation and error handling
 
 ## 🛠️ Tools & Technologies
@@ -54,7 +54,7 @@ LibraryManagementSystem/
 - Language: **Java**
 
 - IDE: **VS Code** / **IntelliJ IDEA**
-- 
+ 
 - Execution: CLI / Terminal
 
 ## 🚀 How to Run
@@ -62,7 +62,7 @@ LibraryManagementSystem/
 1. **Clone or Download** the repository
    
 2. Open the project in **IntelliJ IDEA** or **VS Code**
-3. 
-4. Compile and run `Main.java` from the `src/` folder
+   
+3. Compile and run `Main.java` from the `src/` folder
 
 
